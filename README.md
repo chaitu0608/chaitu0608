@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @chaitu0608
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...CS50 from Harvard Online 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mail:chaitu0608@gmail.com
-
-<!---
-chaitu0608/chaitu0608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Gayatri Agarwal</h1>
+## 🌐 Socials:
+[![Instagram] (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/chaitu0608_/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (linkedin.com/in/chaitanya-dhamdhere/)
